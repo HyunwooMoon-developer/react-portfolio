@@ -14,7 +14,7 @@ class Project extends Component {
           <div className="description">
             <p>This app can help figure out the flow of money.</p>
             <p>
-              Through the imcome page, spending page, and the reporting page,{" "}
+              Through the income page, spending page, and the reporting page,{" "}
             </p>
             <p>
               you can check how much money you make, how much you spend, and how
@@ -53,7 +53,7 @@ class Project extends Component {
         <div className="project">
           <h3>Pet Adopt</h3>
           <div className="description">
-            <p>This app is adopted dogs and cats.</p>
+            <p>You can adopt dogs and cats through this app.</p>
             <p>
               Adopt this app first in, first out. Adoption is possible after the
               early adopter is over.
@@ -95,7 +95,7 @@ class Project extends Component {
         <div className="project">
           <h3>Korean Word Test</h3>
           <div className="description">
-            <p>This app can help testing korean words.</p>
+            <p>This app can help to test Korean words.</p>
             <p>
               Through this app, you can test words and check the score of each
               word

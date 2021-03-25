@@ -23,8 +23,8 @@ class About extends Component {
             more advanced than today!
           </p>
           <br />
-          <p>I love to hanging out with people and like to think creatively.</p>
-          <p>I also love watching movies and going on trip!</p>
+          <p>I love to hang out with people and like to think creatively.</p>
+          <p>I also love watching movies and going on trips!</p>
           <br />
           <p>
             I have a lot of hunger for discussing with my colleagues, developing
