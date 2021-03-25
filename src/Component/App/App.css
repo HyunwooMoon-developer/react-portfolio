@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  margin: auto;
+  background-color: rgba(255, 193, 122, 0.575);
+}
+
+footer {
+  background-color: rgba(216, 129, 30, 0.733);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}

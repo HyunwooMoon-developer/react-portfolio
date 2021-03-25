@@ -1,0 +1,40 @@
+.main-page {
+  text-align: center;
+  display: flex;
+}
+
+.main-image {
+  margin-top: 30px;
+  flex: 1;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+  border-radius: 15px;
+}
+
+.main-text {
+  flex: 1;
+  margin-top: 50px;
+  margin-right: 50px;
+  justify-content: center;
+  text-align: center;
+  border: none;
+  border-radius: 5%;
+  background-color: rgba(216, 129, 30, 0.733);
+  color: white;
+  padding: 10px;
+}
+
+.main-text h2 {
+  margin-top: 30px;
+  font-size: 2.3em;
+  font-weight: bolder;
+}
+
+.main-text p {
+  margin-top: 30px;
+  font-size: 1.3em;
+  font-weight: bold;
+}

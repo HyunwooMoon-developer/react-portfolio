@@ -1,0 +1,42 @@
+.contact-page {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.contact-page h2 {
+  font-size: 2.5em;
+  font-weight: bold;
+  letter-spacing: 5px;
+  text-decoration: underline;
+}
+
+.contact-page form {
+  font-size: 1.3em;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.contact-form label {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+input[type="text"],
+textarea {
+  margin-bottom: 15px;
+  width: 60%;
+  padding: 10px 12px;
+  text-align: center;
+}
+
+.contact-form button {
+  display: inline-block;
+  padding: 10px 12px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: rgb(145, 145, 145);
+  color: white;
+  font-weight: bold;
+  width: 60%;
+}

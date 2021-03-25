@@ -1,0 +1,34 @@
+.about-page {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.about-page h2 {
+  font-size: 2.5em;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  text-decoration: underline;
+}
+
+.about-text {
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-bottom: 30px;
+  max-width: 80%;
+  background-color: rgba(216, 129, 30, 0.733);
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+.about-text h3 {
+  font-size: 1.8em;
+  color: rgb(201, 76, 76);
+  font-weight: bolder;
+}
+
+.about-text p {
+  margin-top: 9px;
+  font-size: 1.3em;
+}
