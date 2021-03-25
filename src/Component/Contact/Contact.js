@@ -47,6 +47,7 @@ class Contact extends Component {
           <button type="submit">Submit</button>
         </form>
         <div className="contact-social">
+          <SocialIcon url="mailto:mhw9163@gmail.com" />{" "}
           <SocialIcon
             url="http://www.linkedin.com/in/hyunwoomoon"
             target="_blank"

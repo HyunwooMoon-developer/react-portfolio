@@ -14,7 +14,7 @@ class Project extends Component {
           <div className="description">
             <p>This app can help figure out the flow of money.</p>
             <p>
-              Through the income page, spending page, and the reporting page,{" "}
+              Through the income page, spending page, and reporting page,{" "}
             </p>
             <p>
               you can check how much money you make, how much you spend, and how
@@ -59,7 +59,7 @@ class Project extends Component {
               early adopter is over.
             </p>
             <p>
-              Go to the adoption page, click the picture of type of animal, and
+              Go to the adoption page, click the picture of the type of animal, and
               enter the name to prepare for adoption.
             </p>
             <h4>

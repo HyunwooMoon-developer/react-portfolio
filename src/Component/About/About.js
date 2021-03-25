@@ -10,7 +10,7 @@ class About extends Component {
           <h3>"There is no end to learning!"</h3>
           <p>I always live with these words in my heart.</p>
           <p>
-            I have always enjoyed doing new things and having experiences, and
+            I have always enjoyed doing new things and having experiences and
             loved learning.
           </p>
           <p>
