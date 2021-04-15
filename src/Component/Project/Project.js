@@ -10,12 +10,43 @@ class Project extends Component {
       <div className="project-page">
         <h2>Project</h2>
         <div className="project">
+          <h3>YourMoon</h3>
+          <div className="description">
+            <p>Users can put the scent, color, and quantity in the cart</p>
+            <p>Users can add or delete their own reviews.</p>
+            <p>Users can register and login</p>
+            <h4>
+              Using skills : Back End(Node Express.js, PostgreSQL), Front
+              End(React, Javascript, HTML/CSS, RESTful)
+            </h4>
+          </div>
+          <button type="button">
+            <a href="https://yourmoon-client.vercel.app/" target="_blank">
+              Live App
+            </a>
+          </button>{" "}
+          <button type="button" target="_blank">
+            <a
+              href="https://github.com/HyunwooMoon-developer/yourmoon-client.git"
+              target="_blank"
+            >
+              Client Repo
+            </a>
+          </button>{" "}
+          <button type="button" target="_blank">
+            <a
+              href="https://github.com/HyunwooMoon-developer/yourmoon-api.git"
+              target="_blank"
+            >
+              Server Repo
+            </a>
+          </button>
+        </div>
+        <div className="project">
           <h3>Where Is My Money</h3>
           <div className="description">
             <p>This app can help figure out the flow of money.</p>
-            <p>
-              Through the income page, spending page, and reporting page,{" "}
-            </p>
+            <p>Through the income page, spending page, and reporting page, </p>
             <p>
               you can check how much money you make, how much you spend, and how
               much you save.
@@ -59,8 +90,8 @@ class Project extends Component {
               early adopter is over.
             </p>
             <p>
-              Go to the adoption page, click the picture of the type of animal, and
-              enter the name to prepare for adoption.
+              Go to the adoption page, click the picture of the type of animal,
+              and enter the name to prepare for adoption.
             </p>
             <h4>
               Using skills : Front-End(React), Back-End(Node.js, Express.js,
