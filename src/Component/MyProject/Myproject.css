@@ -1,0 +1,65 @@
+.project {
+  width: 45%;
+  height: 50vh;
+  margin: 20px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.project-browser {
+  height: 25px;
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+}
+
+.project-circle {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin: 3px;
+}
+
+.circle1 {
+  background-color: red;
+}
+
+.circle2 {
+  background-color: yellow;
+}
+
+.circle3 {
+  background-color: rgb(175, 175, 175);
+}
+
+.project-image {
+  margin: 20px;
+  width: 80%;
+  height: 33vh;
+  border-radius: 10px;
+}
+
+.project-desc {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.project-desc > h4 {
+  font-size: 1.2em;
+  color: rgb(201, 76, 76);
+  font-weight: bolder;
+}
+
+.project-desc > p {
+  margin: 5px;
+  letter-spacing: 2px;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 640px) {
+  .project {
+    width: 100%;
+    height: 40vh;
+  }
+}
