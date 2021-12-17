@@ -20,12 +20,16 @@ nav > ul {
 
 nav > ul > li {
   display: inline-block;
-  margin-right: 5%;
+  margin-left: 5%;
 }
 
 nav > ul > li > a {
-  color: rgb(83, 221, 255);
+  color: rgb(41, 41, 41);
   font-size: 1.5em;
   text-decoration: none;
   font-weight: bolder;
+}
+
+.nav-contact {
+  margin-right: 20px;
 }

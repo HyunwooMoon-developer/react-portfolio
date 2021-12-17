@@ -7,8 +7,9 @@
 }
 
 .project-title {
-  font-size: 4em;
+  font-size: 6em;
   font-weight: bolder;
+  color: rgb(61, 61, 61);
 }
 
 .project-list {

@@ -26,7 +26,7 @@ const Contact = () => {
   return (
     <div className="contact">
       <div className="contact-info">
-        <h1 className="contact-title">Contact Me</h1>
+        <h1 className="contact-title">CONTACT</h1>
         {sent ? (
           <div className="email-sent">Thank you! :)</div>
         ) : (
@@ -48,7 +48,7 @@ const Contact = () => {
                 name="message"
                 required
               />
-              <button>Submit</button>
+              <button>SUBMIT</button>
             </form>
           </div>
         )}

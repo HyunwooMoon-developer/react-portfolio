@@ -1,18 +1,16 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import './Nav.css';
-import logo from '../../image/logo.png';
 
 export default class Nav extends Component {
   render() {
     return (
       <div className="navbar">
-        <Link to={'/'}>
-          <img src={logo} alt="home" className="logo" />
-        </Link>
-
         <nav>
           <ul>
+            <li>
+              <Link to={'/'}>Home</Link>
+            </li>
             <li>
               <Link to={'/about'}>About</Link>
             </li>
@@ -20,7 +18,9 @@ export default class Nav extends Component {
               <Link to={'/project'}>Project</Link>
             </li>
             <li>
-              <Link to={'/contact'}>Contact</Link>
+              <Link to={'/contact'} className="nav-contact">
+                Contact
+              </Link>
             </li>
           </ul>
         </nav>
